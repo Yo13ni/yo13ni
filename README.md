@@ -8,7 +8,7 @@ Contact Me | [GitHub](https://github.com/yo13ni) | [LinkedIn](https://www.linked
 
 ## About Me
 
-I am a **Software Engineering** graduate specializing in **Mobile app development**. I love solving complex problems and creating scalable, efficient solutions using modern technologies. I enjoy building mobile applications and designing beautiful user experiences.
+I am a **Software Engineering** student specializing in **Mobile app development**. I love solving complex problems and creating scalable, efficient solutions using modern technologies. I enjoy building mobile applications and designing beautiful user experiences.
 
 - 🔭 I'm currently working on **Yoro App** mobile development
 - 🌱 I'm learning **Flutter**, **Dart**, and advanced mobile development patterns
