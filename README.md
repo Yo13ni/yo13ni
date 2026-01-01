@@ -69,15 +69,7 @@ UI design for expense tracking application.
 - **Tech:** Figma UI Design
 - **Link:** [Figma](https://www.figma.com/design/XLSGZtVdyyrdnYhTa8GsnU/Untitled?node-id=0-1&t=u9D36zi0FwhkBxUw-1)
 
----
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yo13ni&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yo13ni&layout=compact&theme=dark)
-
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=yo13ni&theme=dark)
 
 ---
 
